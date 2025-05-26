@@ -53,7 +53,7 @@ This project involved building a virtual home lab using VirtualBox to simulate a
 
 ### Interfaces
 
-- **WAN**: DHCP from NAT adapter
+- **WAN**: DHCP from Bridged adapter
 - **LAN**:
   - Static IP: `192.168.1.1/24`
   - DHCP enabled: `192.168.1.100–192.168.1.200`
