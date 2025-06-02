@@ -27,7 +27,7 @@ This project involved building a virtual home lab using VirtualBox to simulate a
 
 ## Network Architecture
 
-
+![Home Network Design](/images/HomeLabDesign.png)
 
 ---
 
